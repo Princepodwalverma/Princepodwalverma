@@ -34,14 +34,6 @@
 </p>
 
 <p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=vishal050506&show_icons=true&locale=en"
-    alt="vishal050506"
-  />
-</p>
-
-<p>
   <img
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=vishal050506&"
