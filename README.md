@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Verma</h1>
 <h3 align="center">
   I’m passionate about cloud computing and its transformative impact on businesses. Currently pursuing a BTech degree, I’ve focused on gaining deep expertise in AWS technologies and cloud architecture. The flexibility, scalability, and innovation that cloud platforms like AWS bring to the table inspire me to stay updated with the latest trends and advancements in this space.
-
-I’m particularly fascinated by AWS's extensive services, including EC2, S3, Lambda, and RDS, which allow businesses to build highly resilient, cost-effective infrastructures. My journey with cloud computing started when I realized how vital it is for modern enterprises, and ever since, I’ve been dedicated to expanding my skills through hands-on projects, certifications, and community engagement.
-
-As I work toward becoming a cloud architect, my goal is to leverage cloud technologies to solve real-world challenges, optimize systems, and drive business growth. I’m constantly learning and looking for opportunities to apply my knowledge in cloud design, deployment, and security.
-
-
 </h3>
 <p align="left">
   <img
@@ -14,9 +8,6 @@ As I work toward becoming a cloud architect, my goal is to leverage cloud techno
     alt="princepodwalverma"
   />
 </p>
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/prince-verma-579444246/" target="blank"
