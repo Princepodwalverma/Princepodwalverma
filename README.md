@@ -1,4 +1,4 @@
-![MasterHead](![image](https://github.com/user-attachments/assets/b35aa0b0-dff7-4bfb-95ac-0b9f9f5a208f)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 )
 <h1 align="center">Hi 👋, I'm Prince Verma</h1>
 <h3 align="center">
