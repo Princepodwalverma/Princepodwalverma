@@ -3,12 +3,6 @@
 <h3 align="center">
   I’m passionate about cloud computing and its transformative impact on businesses. Currently pursuing a BTech degree, I’ve focused on gaining deep expertise in AWS technologies and cloud architecture. The flexibility, scalability, and innovation that cloud platforms like AWS bring to the table inspire me to stay updated with the latest trends and advancements in this space.
 </h3>
-<p align="left">
-  <img
-    src="[C:\Users\princ\OneDrive\Desktop\WhatsApp Image 2024-09-15 at 15.18.54_c4c65360.jpg](https://static.vecteezy.com/system/resources/previews/012/720/075/non_2x/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg)"
-    alt="princepodwalverma"
-  />
-</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/prince-verma-579444246/" target="blank"
