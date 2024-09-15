@@ -1,4 +1,5 @@
-![MasterHead](https://images.app.goo.gl/7kcDj7jgL3s7cjuYA)
+![MasterHead](![image](https://github.com/user-attachments/assets/b35aa0b0-dff7-4bfb-95ac-0b9f9f5a208f)
+)
 <h1 align="center">Hi 👋, I'm Prince Verma</h1>
 <h3 align="center">
   I’m passionate about cloud computing and its transformative impact on businesses. Currently pursuing a BTech degree, I’ve focused on gaining deep expertise in AWS technologies and cloud architecture. The flexibility, scalability, and innovation that cloud platforms like AWS bring to the table inspire me to stay updated with the latest trends and advancements in this space.
