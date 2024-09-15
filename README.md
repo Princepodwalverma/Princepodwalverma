@@ -4,7 +4,7 @@
 </h3>
 <p align="left">
   <img
-    src="C:\Users\princ\OneDrive\Desktop\WhatsApp Image 2024-09-15 at 15.18.54_c4c65360.jpg"
+    src="[C:\Users\princ\OneDrive\Desktop\WhatsApp Image 2024-09-15 at 15.18.54_c4c65360.jpg](https://static.vecteezy.com/system/resources/previews/012/720/075/non_2x/cloud-computing-social-media-banner-hi-tech-cloud-connection-technology-linkedin-cover-internet-business-technology-header-global-data-information-exchange-background-illustration-vector.jpg)"
     alt="princepodwalverma"
   />
 </p>
